@@ -1,6 +1,6 @@
 ### tg-push-demo
 
-### ㊙️ SECRET
+### SECRET
 |YOU SECRET NAME|YOU SECRET VALUE|
   |-----|--|
   |`BODY`|text|
